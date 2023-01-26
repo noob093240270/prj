@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\c++\patterns\26_01_23\Source.cpp(111,20): error C2086: std::vector<std::string,std::allocator<std::string>> s: переопределение
+C:\c++\patterns\26_01_23\Source.cpp(89): message : см. объявление "s"
+C:\c++\patterns\26_01_23\Source.cpp(112,12): error C2086: std::string ln: переопределение
+C:\c++\patterns\26_01_23\Source.cpp(90): message : см. объявление "ln"
+C:\c++\patterns\26_01_23\Source.cpp(210,21): error C2039: "createClothesGen": не является членом "ManFactory".
+C:\c++\patterns\26_01_23\Source.cpp(47): message : см. объявление "ManFactory"
